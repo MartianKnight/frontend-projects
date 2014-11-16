@@ -19,3 +19,13 @@ body {
 .title-logo {
   margin-top: 20px;
 }
+
+.img-pad{
+  margin-top: 20px;
+}
+
+.border {
+  margin-top: 20px;
+  padding: 5px 15px;
+  border: 1px solid black
+}
