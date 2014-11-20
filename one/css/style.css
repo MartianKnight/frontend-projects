@@ -1,19 +1,24 @@
 body {
   font-family: 'Roboto', sans-serif;
-  color: #747704;
   font-weight: 300;
+}
+
+p {
+  line-height: 2em;
+}
+
+.ud-colors {
+  color: #F5A623;
+  font-weight: 500;
 }
 
 .text-muted {
   color: #BCBBBB;
 }
 
-.text-thin {
-  font-weight: 100;
-}
-
 .title-super {
-  font-size: 60px;
+  font-size: 50px;
+  font-weight: 400;
 }
 
 .title-logo {
