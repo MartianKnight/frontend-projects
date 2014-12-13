@@ -1,0 +1,45 @@
+body {
+  font-family: 'Lucida Grande', sans-serif;
+  font-size: 16px;
+  color: #666666;
+}
+
+p {
+  line-height: 2em;
+}
+
+h2 {
+  color: #F07C17;
+  margin-bottom: 32px;
+  font-weight: bold;
+  font-size: 1.50em;
+}
+
+.good-padding {
+  padding-top: 2px;
+}
+
+.title-super {
+  font-size: 48px;
+  margin-top: 41px;
+  padding-top: 2px;
+  margin-bottom: 8px;
+}
+
+.img-pad {
+  margin-top: 24px;
+}
+
+ul {
+  padding-left: 43px;
+  line-height: 30px;
+  padding-bottom: 30px;
+}
+
+.border {
+  padding-top: 9px;
+  padding-left: 27px;
+  padding-bottom: 0px;
+  margin-top: 31px;
+  border: 1px solid black
+}
