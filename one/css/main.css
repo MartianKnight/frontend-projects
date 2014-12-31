@@ -1,7 +1,7 @@
 body {
-  font-family: 'Lucida Grande', sans-serif;
+  font-family: "Lucida Grande", sans-serif;
   font-size: 16px;
-  color: #666666;
+  color: #666;
 }
 
 p {
@@ -9,13 +9,13 @@ p {
 }
 
 h2 {
-  color: #F07C17;
+  color: #f07c17;
   margin-bottom: 32px;
   font-weight: bold;
   font-size: 1.50em;
 }
 
-.good-padding {
+.h2-padding {
   padding-top: 2px;
 }
 
@@ -37,9 +37,7 @@ ul {
 }
 
 .border {
-  padding-top: 9px;
-  padding-left: 27px;
-  padding-bottom: 0px;
+  padding: 9px 0 0 27px;
   margin-top: 31px;
   border: 1px solid black
 }
